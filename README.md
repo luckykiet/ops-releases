@@ -19,7 +19,3 @@ Go to the [Releases](../../releases) page and download the latest installer for 
 ## Auto-Update
 
 The application checks for updates automatically. When a new release is published here, running instances will prompt to download and install.
-
-## Publishing
-
-Maintainers: use `yarn release` from the source repository to build and upload new installers.
